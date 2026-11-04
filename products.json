@@ -1,0 +1,30 @@
+[
+    {
+        "name": "n n ",
+        "category": "n  ",
+        "store": " n",
+        "price": "54",
+        "quantity": "2"
+    },
+    {
+        "name": "rice ",
+        "category": "groceries",
+        "store": "dmart",
+        "price": "55",
+        "quantity": "1"
+    },
+    {
+        "name": "rice ",
+        "category": "groceries",
+        "store": "reliance",
+        "price": "60",
+        "quantity": "1"
+    },
+    {
+        "name": "rice ",
+        "category": "groceries",
+        "store": "more",
+        "price": "53",
+        "quantity": "1"
+    }
+]
